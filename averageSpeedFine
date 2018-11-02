@@ -1,0 +1,3 @@
+Compute Segment 52 start, segment 56 end distance from Total length and position.
+Calculate minimum time needed to cross it with 60 mph.
+For all VIDs, check if they have entries in both segments 52 and 56. If yes and time elapsed is less than above minimum time, fine them. 
