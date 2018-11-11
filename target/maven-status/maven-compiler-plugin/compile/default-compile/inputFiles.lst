@@ -1,4 +1,7 @@
-/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/StreamingJob.java
-/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/BatchJob.java
-/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/WordCount.java
-/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/SocketTextStreamWordCount.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/SocketTextStreamWordCount.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/WordCount.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/StreamingJob.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/VehicleTelematics.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/VehicleInfo.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/StreamTuple.java
+/media/cycle/New Volume/Downloads/LSDM/flink_project/src/main/java/master2018/flink/BatchJob.java

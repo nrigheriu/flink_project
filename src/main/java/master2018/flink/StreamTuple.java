@@ -1,4 +1,4 @@
-package master2018;
+package master2018.flink;
 
 import org.apache.flink.api.java.tuple.Tuple8;
 import org.apache.flink.streaming.api.datastream.DataStream;

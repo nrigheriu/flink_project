@@ -1,4 +1,4 @@
-package master2018;
+package master2018.flink;
 
 /**
  * Licensed to the Apache Software Foundation (ASF) under one

@@ -1,4 +1,4 @@
-package master2018;
+package master2018.flink;
 
 /**
  * Licensed to the Apache Software Foundation (ASF) under one
@@ -34,7 +34,7 @@ import org.apache.flink.api.java.ExecutionEnvironment;
  * You will find the jar in
  * 		target/flink_project-1.0-SNAPSHOT.jar
  * From the CLI you can then run
- * 		./bin/flink run -c master2018.BatchJob target/flink_project-1.0-SNAPSHOT.jar
+ * 		./bin/flink run -c BatchJob target/flink_project-1.0-SNAPSHOT.jar
  *
  * For more information on the CLI see:
  *

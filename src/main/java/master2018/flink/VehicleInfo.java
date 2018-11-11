@@ -1,4 +1,4 @@
-package master2018;
+package master2018.flink;
 
 public class VehicleInfo {
     private long timestamp;
